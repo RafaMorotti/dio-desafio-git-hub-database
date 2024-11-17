@@ -1,2 +1,2 @@
-# dio-desafio-git-hub-database
+# Dio-desafio-git-hub-database
 Desafio de projeto sobre Git e Github
